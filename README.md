@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Alexy Gimenez
-- 👀 Sou estudante de Data Science e sou BRASILEIRO! Olha pra mim @Google
+- 👀 Sou estudante de Data Science e sou BRASILEIRO de Minas Gerais. Estou mudando de profissão e sinto muito orgulho disso! 
+- Chega aqui e dê uma olhada no que eu faço.
 
 
 <!---
